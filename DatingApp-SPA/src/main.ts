@@ -1,3 +1,4 @@
+/*ng serve --port 4200 --host 0.0.0.0*/
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
